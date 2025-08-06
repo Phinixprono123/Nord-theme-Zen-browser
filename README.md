@@ -11,4 +11,10 @@ This is a sleek, mininmalistic zen browser theme inspired by the [Nord palette](
 2. Copy the userChrome.css and userContent.css files from **src** and paste them into the **chrome**  directory in your Profile directory
 3. Restart Zen browser (If it is already open)
 
+# Showcase
 
+![Main](https://github.com/Phinixprono123/Nord-theme-Zen-browser/blob/main/images/1.png)
+
+![Main](https://github.com/Phinixprono123/Nord-theme-Zen-browser/blob/main/images/search.png)
+
+![Main](https://github.com/Phinixprono123/Nord-theme-Zen-browser/blob/main/images/settings.png)
