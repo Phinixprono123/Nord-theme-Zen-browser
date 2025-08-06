@@ -4,7 +4,7 @@ This is a sleek, mininmalistic zen browser theme inspired by the [Nord palette](
 # Installation
 ### Turn on legacy profile customazaion option
 1. go to `about:config` on your zen browser <br>
-2. Then search and the value of `toolkit.legacyUserProfileCustomizations.stylesheets` to `true`
+2. Then search and set the value of `toolkit.legacyUserProfileCustomizations.stylesheets` to `true`
 
 ### Install the theme
 1. Locate the Pofile directory by going to `about:support` and click on **Open Directory** Next to **Profile Directory**
